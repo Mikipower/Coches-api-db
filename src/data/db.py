@@ -1,5 +1,6 @@
 from sqlmodel import create_engine, SQLModel, Session
 from src.models.coche import Coche
+import os
 
 db_user: str = "quevedo"  
 db_password: str =  "1234"
