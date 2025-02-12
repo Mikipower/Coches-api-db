@@ -4,4 +4,4 @@ sqlmodel
 pymysql
 cryptography
 psycopg
-psycog2-binary
+psycopg2-binary
